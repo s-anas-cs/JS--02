@@ -1,0 +1,21 @@
+/* Basic styles for the clock */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #1d2432;
+  }
+  
+  .clock {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 110px;
+    font-weight: bold;
+    background-color: #484848;
+    padding: 55px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+  }
+  
